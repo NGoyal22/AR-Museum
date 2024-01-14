@@ -1,6 +1,11 @@
-# ARMuseum
+# Augmented Reality Museum
 
 ![AR Museum](./images/ar-museum.jpg)
+
+Using Unity 3D, I have created a museum AR application that contains two laser-scanned objects. To develop the AR application, I have used Google ARCore for Android or iOS using the Unity XR plug-in framework. The main idea is to create the ability to hold a museum object in your hand. Then, you should change the objects with a click and add sound and text to describe the object selected.
+Source of museum artifacts: Museum-Objects.rar
+
+![Sample Image](./images/sample.png)
 
 Create VR Core project <br />
 File > Build settings > select android > switch platform <br />
